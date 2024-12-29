@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/patricia-herrera-6775012a0/](https://www.linkedin.com/in/patricia-herrera-6775012a0/)
 
-- ⚡ Fun fact **The only 'debugging' I do is in GTA—figuring out how to escape 5-star wanted levels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
