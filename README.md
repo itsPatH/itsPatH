@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Next.js, MySql.**
 
-- 👨‍💻 All of my projects are available at (https://github.com/itsPatH?tab=repositories) && (https://vercel.com/itspaths-projects)
+- 👨‍💻 All of my projects are available at https://github.com/itsPatH?tab=repositories && https://vercel.com/itspaths-projects
 
 - 📫 How to reach me **herrerapatriciadg@gmail.com**
 
