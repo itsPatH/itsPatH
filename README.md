@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patricia</h1>
-<h3 align="center">Full Stack Developer | Learning Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Amateur</h3>
 
 ---
 
